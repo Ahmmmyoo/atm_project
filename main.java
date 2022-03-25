@@ -8,6 +8,15 @@ public class Main
 
         Scanner input = new Scanner(System.in);
 
-        
+        /* int loginState = Login.login();
+
+        if(loginState == 2) {System.out.print("\nCan not Login\n");}
+        else if(loginState == 1) {
+            System.out.print("\nLogin Successful\n");
+
+        }
+        else {System.out.print("\nLogin Error....\n");}
+
+        */
     }
 }
